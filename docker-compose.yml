@@ -1,0 +1,35 @@
+services:
+  db_mysql:
+    image: mysql:8.0
+    container_name: gestrasing_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: adminseguro123
+      MYSQL_DATABASE: gestrasing_db
+    ports:
+      - "3306:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+
+  api-gestrasing:
+    build: ./backend
+    container_name: gestrasing_backend
+    restart: always
+    ports:
+      - "8080:8000"
+    env_file:
+      - ./backend/.env
+    depends_on:
+      - db_mysql
+
+  web-gestrasing:
+    build: ./frontend
+    container_name: gestrasing_frontend
+    restart: always
+    ports:
+      - "80:80"
+    depends_on:
+      - api-gestrasing
+
+volumes:
+  db_data:

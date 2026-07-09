@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "additional": "Additional"
+  },
+  "about": {
+    "hero": {
+      "titlePart1": "Our",
+      "titlePart2": "History",
+      "subtitle": "Over a decade connecting destinations with safety, comfort, and commitment."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "To provide comprehensive door-to-door and corporate specialized transportation solutions, exceeding our clients' expectations through safe, punctual service with high quality standards, operating with a modern fleet and highly qualified human talent."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "By the year 2030, Gestrasing S.A.S. will be recognized as the leading company in mobility and logistics solutions in the region, standing out for its technological innovation, environmental sustainability, and contribution to the economic development of the department."
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The core values driving every single one of our routes.",
+      "card1": {
+        "title": "Comprehensive Safety",
+        "text": "Strict maintenance protocols and continuous training to guarantee that every trip is 100% safe."
+      },
+      "card2": {
+        "title": "Punctuality",
+        "text": "We understand that our clients' time is invaluable. We fulfill our schedules with absolute precision."
+      },
+      "card3": {
+        "title": "Service Excellence",
+        "text": "A human, friendly approach, always ready to solve any need for our corporate and private passengers."
+      }
+    },
+    "clients": {
+      "title": "Companies that trust us"
+    }
+  },
+  "home": {
+    "hero": {
+      "titlePart1": "Specialized",
+      "titlePart2": "Door-to-Door Service",
+      "subtitle": "Specialized door-to-door, corporate, and logistics transportation solutions meeting the highest standards of safety and comfort.",
+      "btnQuote": "Quote Service",
+      "btnTours": "We transport your pet!"
+    },
+    "trust": {
+      "exp": "Years of Experience",
+      "fleet": "Modern & Safe Fleet",
+      "support": "Operation & Support"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Discover everything Gestrasing has to offer.",
+      "cards": {
+        "intercity": {
+          "title": "Door-to-Door Transportation",
+          "desc": "Travel comfortably and safely across our main routes with the finest fleet."
+        },
+        "corporate": {
+          "title": "Corporate Transportation",
+          "desc": "Tailor-made solutions for staff and executive transfers."
+        },
+        "parcels": {
+          "title": "Shipping & Parcels",
+          "desc": "Your packages reach their destination quickly, safely, and fully tracked."
+        },
+        "pets": {
+          "title": "Pet Transportation",
+          "desc": "We understand pets are part of the family. We offer specialized relocation services for dogs and cats."
+        }
+      },
+      "learnMore": "Learn more"
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "Specialized Transportation Solutions",
+      "subtitle": "Learn in detail about our business lines designed to provide supreme comfort and safety."
+    },
+    "tabs": {
+      "intercity": "Door-to-Door Transportation",
+      "corporate": "Corporate Transportation"
+    },
+    "intercity": {
+      "heading": "Door-to-Door Service",
+      "description": "We connect Villavicencio and the capital with a state-of-the-art fleet. Our dispatches are structured to guarantee punctuality and safety for every passenger.",
+      "featuresTitle": "Service Benefits",
+      "features": [
+        "Ergonomic reclining seats",
+        "Climate controlled",
+        "Onboard Wi-Fi connectivity",
+        "Private Service: $360.000",
+        "Shared Service Seat: $130.000"
+      ],
+      "cta": "Book my seat"
+    },
+    "corporate": {
+      "heading": "Corporate Solutions",
+      "description": "We provide specialized transportation services for companies and corporate events. We adapt to your organization's itineraries to mobilize your personnel with total efficiency.",
+      "featuresTitle": "Corporate Advantages",
+      "features": [
+        "Exclusive and customized routes",
+        "Electronic invoicing",
+        "Vehicles of various capacities",
+        "Designated driver",
+        "Top safety and comfort"
+      ],
+      "cta": "Get a quote"
+    },
+    "fleet": {
+      "title": "Our Fleet",
+      "subtitle": "Meet the vehicles that make every trip possible. Comfort, safety, and technology on every route.",
+      "specs": {
+        "seats": "Seats",
+        "type": "Type"
+      },
+      "vehicles": {
+        "bus": { "name": "VIP Luxury Bus", "type": "Intercity Bus", "seats": "40" },
+        "van": { "name": "Executive Van", "type": "Van", "seats": "19" },
+        "minivan": { "name": "Corporate Mini Van", "type": "Mini Van", "seats": "8" },
+        "duster": { "name": "Exclusive SUV", "type": "Duster SUV", "seats": "4" },
+        "platon": { "name": "Corporate Truck", "type": "Hilux 4x4", "seats": "4" }
+      }
+    }
+  },
+  "additionalPage": {
+    "hero": {
+      "title": "Additional Services",
+      "subtitle": "Discover our regional logistics and tourism solutions."
+    },
+    "parcels": {
+      "title": "Shipping & Parcels",
+      "desc": "Express courier and parcel service between our operated destinations. We guarantee the integrity of your shipments with live tracking and optimized delivery times.",
+      "featuresTitle": "Logistics Advantages",
+      "features": [
+        "Urgent and standard shipments",
+        "Full Villavicencio - Bogotá coverage",
+        "Careful handling of delicate goods"
+      ],
+      "cta": "Quote Shipment"
+    },
+    "tours": {
+      "badge": "Coming Soon!",
+      "title": "Tours & Experiences",
+      "desc": "Forget about the steering wheel, traffic stress, and finding a designated driver. Very soon we will launch a comprehensive VIP experience: we pick you up in Bogotá, take you to your hotel in Villavicencio, transport you to the best tourist spots, nightlife venues, and bring you safely back home. You just focus on enjoying yourself; Gestrasing takes care of all the logistics.",
+      "featuresTitle": "What will this experience include?",
+      "features": [
+        "Full round trip: Bogotá - Villavicencio - Bogotá.",
+        "Door-to-door transportation to and from your hotel.",
+        "Designated driver 24/7 for your party nights.",
+        "Routes to the most iconic tourist attractions."
+      ],
+      "cta": "Join the waiting list"
+    },
+    "pets": {
+      "title": "Pet Transportation",
+      "desc": "We understand pets are part of the family. We offer specialized transfer services for dogs and cats under strict animal safety and welfare standards, ensuring they travel just as comfortably as you do.",
+      "featuresTitle": "Welfare Commitment",
+      "features": [
+        "Safety",
+        "Comfort",
+        "Scheduled comfort stops"
+      ],
+      "cta": "Check Requirements"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Gestrasing S.A.S. | Door-to-Door & Corporate Transportation",
+      "desc": "Leading specialized door-to-door, corporate, and logistics transportation solutions in Meta and Colombia. Comfort, safety, and punctuality."
+    },
+    "about": {
+      "title": "About Us | Gestrasing S.A.S.",
+      "desc": "Learn about our history, mission, and the corporate values that make us the leading mobility and logistics company in the region."
+    },
+    "services": {
+      "title": "Our Services | Gestrasing S.A.S.",
+      "desc": "We offer specialized Door-to-Door, corporate, and logistics transportation with high safety standards, punctuality, and a modern fleet."
+    },
+    "additional": {
+      "title": "Additional Services | Gestrasing S.A.S.",
+      "desc": "Discover our comprehensive solutions: parcel shipping, safe pet transportation, and guided tourism tours across the Llanos region."
+    }
+  },
+  "quotePage": {
+    "title": "Request a Quote",
+    "subtitle": "Fill out the form below and Gestrasing will get in touch with you shortly.",
+    "mainTabs": {
+      "quote": "Quote Special Service",
+      "reserve": "Book Door-to-Door Service"
+    },
+    "reserveForm": {
+      "title": "Transportation Reservation",
+      "name": "Full Name",
+      "idNumber": "National ID / Passport",
+      "phone": "Phone Number",
+      "serviceType": "Service Type",
+      "vehicleType": "Vehicle",
+      "origin": "Origin",
+      "destination": "Destination",
+      "date": "Date",
+      "time": "Pickup Time",
+      "submitBtn": "Request Reservation",
+      "timeWarning": "Due to the nature of this service, reservations must be made at least {hours} hours in advance.",
+      "otherOption": "Other destination...",
+      "specifyOther": "Specify city/location",
+      "passengers": "Number of Passengers",
+      "extraPassenger": "Additional Passenger #{num}",
+      "pickupAddress": "Pickup Address"
+    },
+    "form": {
+      "personalData": "Personal Information",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Contact Phone",
+      "serviceData": "Service Details",
+      "serviceType": "Service Type",
+      "vehicleType": "Required Vehicle",
+      "origin": "City of Origin",
+      "destination": "Destination City",
+      "date": "Travel Date",
+      "passengers": "Number of Passengers",
+      "details": "Additional Details (Optional)",
+      "submit": "Submit Request",
+      "loading": "Sending...",
+      "success": "Quote request sent successfully! Your tracking number is #",
+      "error": "There was an error processing your request. Please try again."
+    },
+    "options": {
+      "services": {
+        "compartido": "Shared",
+        "privado": "Private",
+        "corporativo": "Corporate"
+      },
+      "vehicles": {
+        "duster": "Renault Duster SUV",
+        "minivan": "Mini Van",
+        "van": "Executive Van",
+        "bus": "Intercity Bus"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+/* Aquí definimos la paleta oficial de Gestrasing SAS */
+@theme {
+  --color-ges-green: #4A9B3F;
+  --color-ges-light: #6DC25E;
+  --color-ges-blue: #6BBFDF;
+  --color-ges-black: #1A1A1A;
+  --color-ges-gray: #D4D4D4;
+}
+
+/* El truco del router que teníamos antes, ahora con el verde claro */
+.router-link-active {
+  color: var(--color-ges-light);
+  font-weight: bold;
+}

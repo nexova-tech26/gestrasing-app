@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "additional": "Adicionales"
+  },
+  "about": {
+    "hero": {
+      "titlePart1": "Nuestra",
+      "titlePart2": "Historia",
+      "subtitle": "Más de una década conectando destinos con seguridad, confort y compromiso."
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "text": "Brindar soluciones integrales de transporte especializado puerta a puerta y empresarial, superando las expectativas de nuestros clientes mediante un servicio seguro, puntual y con altos estándares de calidad operando con una flota moderna y talento humano altamente calificado."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "text": "Para el año 2030, Gestrasing S.A.S. será reconocida como la empresa líder en soluciones de movilidad y logística en la región, destacándose por su innovación tecnológica, sostenibilidad ambiental y el aporte al desarrollo económico del departamento."
+    },
+    "values": { 
+      "title": "Nuestros Valores",
+      "subtitle": "Los valores que conducen cada una de nuestras rutas.",
+      "card1": {
+        "title": "Seguridad Integral",
+        "text": "Protocolos estrictos de mantenimiento y capacitación constante para garantizar que cada viaje sea 100% seguro."
+      },
+      "card2": {
+        "title": "Puntualidad",
+        "text": "Entendemos que el tiempo de nuestros clientes es invaluable. Cumplimos nuestros itinerarios con precisión."
+      },
+      "card3": {
+        "title": "Excelencia en Servicio",
+        "text": "Trato humano, amable y dispuesto a resolver cualquier necesidad de nuestros pasajeros corporativos y particulares."
+      }
+    },
+    "clients": {
+      "title": "Empresas que confían en nosotros"
+    }
+  },
+  "home": {
+    "hero": {
+      "titlePart1": "Servicio especializado",
+      "titlePart2": "Puerta a Puerta",
+      "subtitle": "Soluciones de transporte especializado puerta a puerta, empresarial y logístico con los más altos estándares de seguridad y confort.",
+      "btnQuote": "Cotizar Servicio",
+      "btnTours": "¡Llevamos a tu mascota!"
+    },
+    "trust": {
+      "exp": "Años de Experiencia",
+      "fleet": "Flota Moderna y Segura",
+      "support": "Operación y Soporte"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Conoce todo lo que Gestrasing tiene para ofrecerte.",
+      "cards": {
+        "intercity": {
+          "title": "Transporte Puerta a Puerta",
+          "desc": "Viaja cómodo y seguro por nuestras rutas principales con la mejor flota."
+        },
+        "corporate": {
+          "title": "Transporte Empresarial",
+          "desc": "Soluciones a medida para el traslado de personal."
+        },
+        "parcels": {
+          "title": "Envíos y Encomiendas",
+          "desc": "Tus paquetes llegan a su destino de forma rápida, segura y rastreable."
+        },
+        "pets": {
+          "title": "Transporte de Mascotas",
+          "desc": "Entendemos que sus mascotas son parte de la familia. Ofrecemos un servicio especializado de traslado para perros y gatos"
+        }
+      },
+      "learnMore": "Saber más"
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "Soluciones de Transporte especializado",
+      "subtitle": "Conoce en detalle nuestras líneas de negocio diseñadas para ofrecer confort y seguridad."
+    },
+    "tabs": {
+      "intercity": "Transporte Puerta a Puerta",
+      "corporate": "Transporte Empresarial"
+    },
+    "intercity": { 
+      "heading": "Servicio Puerta a Puerta",
+      "description": "Conectamos Villavicencio y la capital con una flota de última generación. Nuestros despachos están diseñados para garantizar la puntualidad y seguridad de cada pasajero.",
+      "featuresTitle": "Beneficios del Servicio",
+      "features": [
+        "Sillas reclinables ergonómicas",
+        "Climatizado",
+        "Conectividad Wi-Fi a bordo",
+        "Servicio Privado: $360.000",
+        "Cupo Servicio compartido: $130.000"
+      ],
+      "cta": "Reservar mi cupo"
+    },
+    "corporate": {
+      "heading": "Soluciones Corporativas",
+      "description": "Proveemos servicios de transporte especializado para empresas y eventos. Nos adaptamos a los itinerarios de su organización para movilizar a su personal con total eficiencia.",
+      "featuresTitle": "Ventajas Corporativas",
+      "features": [
+        "Rutas exclusivas y personalizadas",
+        "Facturación electrónica",
+        "Vehículos de diferentes capacidades",
+        "Conductor designado",
+        "Seguridad y confort"
+      ],
+      "cta": "Cotiza con nosotros"
+    },
+    "fleet": {
+      "title": "Nuestra Flota",
+      "subtitle": "Conoce los vehículos que hacen posible cada viaje. Confort, seguridad y tecnología en cada ruta.",
+      "specs": {
+        "seats": "Puestos",
+        "type": "Tipo"
+      },
+      "vehicles": {
+        "bus": { "name": "Bus de Lujo VIP", "type": "Bus Intermunicipal", "seats": "40" },
+        "van": { "name": "Van Ejecutiva", "type": "Van", "seats": "19" },
+        "minivan": { "name": "Mini Van Corporativa", "type": "Mini Van", "seats": "8" },
+        "duster": { "name": "Camioneta Exclusiva", "type": "Duster SUV", "seats": "4" },
+        "platon": { "name": "Camioneta Corporativa", "type": "Hilux 4x4", "seats": "4" }
+      }
+    }
+  },
+  "additionalPage": {
+    "hero": {
+      "title": "Servicios Adicionales",
+      "subtitle": "Descubra nuestras soluciones logísticas y turísticas en la región."
+    },
+    "parcels": {
+      "title": "Envíos y Encomiendas",
+      "desc": "Servicio de mensajería y paquetería rápida entre nuestros destinos operados. Garantizamos la integridad de sus envíos con rastreo y tiempos de entrega optimizados.",
+      "featuresTitle": "Ventajas del Servicio Logístico",
+      "features": [
+        "Envíos urgentes y estándar",
+        "Cobertura completa Villavicencio - Bogotá",
+        "Manejo cuidadoso de mercancía delicada"
+      ],
+      "cta": "Cotizar Envío"
+    },
+    "tours": {
+      "badge": "¡Próximamente!",
+      "title": "Tours y Experiencias",
+      "desc": "Olvídese del volante, el estrés del tráfico y de buscar conductor elegido. Muy pronto lanzaremos una experiencia VIP integral: lo recogemos en Bogotá, lo llevamos a su hotel en Villavicencio, lo transportamos a los mejores sitios turísticos, de rumba en la noche y lo regresamos a salvo a casa. Usted solo dedíquese a disfrutar, Gestrasing se encarga de toda la logística.",
+      "featuresTitle": "¿Qué incluirá esta experiencia?",
+      "features": [
+        "Ruta completa: Bogotá - Villavicencio - Bogotá.",
+        "Transporte puerta a puerta desde y hacia su hotel.",
+        "Conductor elegido 24/7 para sus noches de fiesta.",
+        "Rutas hacia los atractivos turísticos más emblemáticos."
+      ],
+      "cta": "Unirme a la lista de espera"
+    },
+    "pets": {
+      "title": "Transporte de Mascotas",
+      "desc": "Entendemos que sus mascotas son parte de la familia. Ofrecemos un servicio especializado de traslado para perros y gatos, bajo estrictas normas de seguridad y bienestar animal para que viajen tan cómodos como usted.",
+      "featuresTitle": "Compromiso de Bienestar",
+      "features": [
+        "Seguridad",
+        "Confort",
+        "Paradas técnicas"
+      ],
+      "cta": "Consultar Requisitos"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Gestrasing S.A.S. | Transporte Puerta a Puerta y Empresarial",
+      "desc": "Soluciones líderes en transporte especializado puerta a puerta, corporativo y logístico en el departamento del Meta y Colombia. Confort, seguridad y puntualidad."
+    },
+    "about": {
+      "title": "Nosotros | Gestrasing S.A.S.",
+      "desc": "Conoce nuestra historia, misión y los valores corporativos que nos convierten en la empresa líder de movilidad y logística en la región."
+    },
+    "services": {
+      "title": "Nuestros Servicios | Gestrasing S.A.S.",
+      "desc": "Ofrecemos transporte especializado Puerta a Puerta, empresarial y logístico con altos estándares de seguridad, puntualidad y una flota moderna."
+    },
+    "additional": {
+      "title": "Servicios Adicionales | Gestrasing S.A.S.",
+      "desc": "Descubre nuestras soluciones integrales: envío de encomiendas, transporte seguro de mascotas y tours turísticos por el Llano."
+    }
+  },
+  "quotePage": {
+    "title": "Solicitar Cotización",
+    "subtitle": "Complete el siguiente formulario y Gestrasing se pondrá en contacto con usted a la brevedad.",
+    "mainTabs": {
+      "quote": "Cotizar Servicio Especial",
+      "reserve": "Reservar Servicio Puerta a Puerta"
+    },
+    "reserveForm": {
+      "title": "Reserva de Transporte",
+      "name": "Nombres Completos",
+      "idNumber": "Cédula de Ciudadanía",
+      "phone": "Teléfono",
+      "serviceType": "Tipo de Servicio",
+      "vehicleType": "Vehículo",
+      "origin": "Origen",
+      "destination": "Destino",
+      "date": "Fecha",
+      "time": "Hora de Recogida",
+      "submitBtn": "Solicitar Reserva",
+      "timeWarning": "Por el tipo de servicio, la reserva debe hacerse con al menos {hours} horas de anticipación.",
+      "otherOption": "Otro destino...",
+      "specifyOther": "Especifique la ciudad/lugar",
+      "passengers": "Cantidad de Pasajeros",
+      "extraPassenger": "Pasajero Adicional #{num}",
+      "pickupAddress": "Dirección de Recogida"
+    },
+    "form": {
+      "personalData": "Datos Personales",
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono de Contacto",
+      "serviceData": "Detalles del Servicio",
+      "serviceType": "Tipo de Servicio",
+      "vehicleType": "Vehículo Requerido",
+      "origin": "Ciudad de Origen",
+      "destination": "Ciudad de Destino",
+      "date": "Fecha del Viaje",
+      "passengers": "Cantidad de Pasajeros",
+      "details": "Detalles Adicionales (Opcional)",
+      "submit": "Enviar Solicitud",
+      "loading": "Enviando...",
+      "success": "¡Cotización enviada con éxito! Su número de solicitud es el #",
+      "error": "Hubo un error al procesar su solicitud. Intente nuevamente."
+    },
+    "options": {
+      "services": {
+        "compartido": "Compartido",
+        "privado": "Privado",
+        "corporativo": "Corporativo"
+      },
+      "vehicles": {
+        "duster": "Camioneta Duster",
+        "minivan": "Mini Van",
+        "van": "Van Ejecutiva",
+        "bus": "Bus Intermunicipal"
+      }
+    }
+  }
+}

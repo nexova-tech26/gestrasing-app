@@ -1,0 +1,26 @@
+# ====================================================================
+# robots.txt para Gestrasing S.A.S.
+# Optimizado para Motores de Búsqueda (Googlebot, Bingbot, etc.)
+# ====================================================================
+
+User-agent: *
+Allow: /
+
+# Bloquear el rastreo de rutas privadas, formularios de backend o paneles
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /login/
+Disallow: /api/
+
+# Bloquear archivos de documentación técnica internos
+Disallow: /README.md
+Disallow: /contributing.md
+Disallow: /LICENSE
+
+# Asegurar acceso completo a recursos esenciales de renderizado (CSS, JS, WebP)
+# Vital para que Google ejecute correctamente JavaScript (Vue.js)
+Allow: /assets/
+Allow: /src/
+
+# Ubicación del Mapa del Sitio (Sitemap)
+Sitemap: https://www.gestrasingsas.com.co/sitemap.xml

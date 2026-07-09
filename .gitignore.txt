@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Entornos y secretos (NUNCA se suben a Git)
+.env
+.env.*
+!.env.example
+
+# Ensamblajes de producción locales
+/frontend/dist/
+
+# Logs y SO
+*.log
+.DS_Store
