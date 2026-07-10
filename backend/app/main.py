@@ -24,7 +24,9 @@ app = FastAPI(
 ORIGINS = [
     "http://localhost:8001",
     "http://127.0.0.1:8001",
-    # NOTA: Al pasar a producción, aquí debes agregar el dominio real (ej. https://gestrasing.com)
+    "http://54.237.227.50",            # <-- Permitir la IP de AWS
+    "http://gestrasing.com.co",        # <-- Permitir tu dominio
+    "http://www.gestrasing.com.co"     # <-- Permitir tu dominio con www
 ]
 
 # Inyectamos el middleware de CORS para interceptar y autorizar el tráfico
