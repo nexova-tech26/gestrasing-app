@@ -105,8 +105,8 @@ const payload = {
     empresa: "N/A" // Lo enviamos por defecto en caso de que el backend lo exija
   }
 
-  try {
-    const response = await fetch('http://localhost:8080/api/v1/cotizaciones/', {
+try {
+    const response = await fetch(`${import.meta.env.VITE_API_URL}/cotizaciones/`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload)
@@ -331,8 +331,8 @@ const submitReserva = async () => {
     tarifa_total: tarifaTotalCalculada.value
   }
 
-  try {
-    const response = await fetch('http://localhost:8080/api/v1/reservas/', {
+try {
+    const response = await fetch(`${import.meta.env.VITE_API_URL}/reservas/`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
