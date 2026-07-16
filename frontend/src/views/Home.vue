@@ -12,11 +12,6 @@ const servicios = [
   { id: 'pets', img: 'mascota-transporte.jpg', link: '/adicionales', hash: '#adicional-mascotas' }
 ]
 
-// traduccion de imagenes en produccionnnnn
-const obtenerImagenDinámica = (nombreImagen) => {
-  // import.meta.url le da a Vite la ruta base actual
-  return new URL(`../assets/images/${nombreImagen}`, import.meta.url).href
-}
 
 // ================= INYECCIÓN DE SEO DINÁMICO =================
 // Usamos "computed" para que el título cambie instantáneamente si el usuario cambia el idioma
@@ -160,7 +155,7 @@ onMounted(() => {
           <div v-for="servicio in servicios" :key="servicio.id" class="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-2xl transition-all duration-300 group flex flex-col">
             
             <div class="h-48 overflow-hidden bg-ges-gray">
-              <img :src="obtenerImagenDinámica(servicio.img)" :alt="t(`home.services.cards.${servicio.id}.title`)" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+              <img :src="`/img/${servicio.img}`" :alt="t(`home.services.cards.${servicio.id}.title`)" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
             </div>
             <div class="p-6 flex-grow flex flex-col justify-between">
               <div>
