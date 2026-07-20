@@ -148,7 +148,7 @@ const goToSlide = (index) => {
             
             <div v-for="vehicle in fleet" :key="vehicle.id" class="min-w-full h-full relative">
               
-              <img :src="`/src/assets/images/${vehicle.img}`" :alt="t(`servicesPage.fleet.vehicles.${vehicle.id}.name`)" loading="lazy" 
+              <img :src="`/img/${vehicle.img}`" :alt="t(`servicesPage.fleet.vehicles.${vehicle.id}.name`)" loading="lazy" 
               class="absolute inset-0 w-full h-full object-contain
               object-top
               md:object-cover 

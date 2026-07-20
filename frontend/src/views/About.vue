@@ -167,7 +167,7 @@ const clients = [
               class="flex flex-col items-center justify-center min-w-[140px] md:min-w-[160px] group cursor-pointer"
             >
               <img 
-                :src="`/src/assets/images/${client.logo}`" 
+                :src="`/img/${client.logo}`" 
                 :alt="client.name" 
                 loading="lazy" 
                 class="w-14 h-14 md:w-16 md:h-16 object-contain grayscale opacity-50 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-300 transform group-hover:scale-110 mb-3" 
@@ -184,7 +184,7 @@ const clients = [
               aria-hidden="true"
             >
               <img 
-                :src="`/src/assets/images/${client.logo}`" 
+                :src="`/img/${client.logo}`" 
                 :alt="client.name" 
                 loading="lazy" 
                 class="w-14 h-14 md:w-16 md:h-16 object-contain grayscale opacity-50 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-300 transform group-hover:scale-110 mb-3" 
