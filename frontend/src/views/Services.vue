@@ -54,7 +54,7 @@ const goToSlide = (index) => {
   <div class="bg-white min-h-screen">
     
     <section class="relative bg-ges-black text-white py-20 md:py-32 flex items-center min-h-[400px]">
-      <img src="../assets/images/services-banner.jpg" alt="Servicios Gestrasing" fetchpriority="high" class="absolute inset-0 w-full h-full object-cover" />
+      <img src="/img/services-banner.jpg" alt="Servicios Gestrasing" fetchpriority="high" class="absolute inset-0 w-full h-full object-cover" />
       <div class="absolute inset-0 bg-ges-black/75"></div>
       <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center w-full">
         <h1 class="text-4xl md:text-5xl font-extrabold tracking-tight mb-4 drop-shadow-md">
@@ -98,7 +98,7 @@ const goToSlide = (index) => {
           </router-link>
           </div>
           <div class="h-96 bg-gray-200 rounded-xl overflow-hidden shadow-inner">
-             <img src="../assets/images/duster2.webp" fetchpriority="high" alt="Servicio Intermunicipal" class="w-full h-full object-cover" />
+             <img src="/img/duster2.webp" fetchpriority="high" alt="Servicio Intermunicipal" class="w-full h-full object-cover" />
           </div>
         </div>
 
@@ -121,7 +121,7 @@ const goToSlide = (index) => {
           </router-link>
           </div>
           <div class="h-96 bg-gray-200 rounded-xl overflow-hidden shadow-inner flex items-center justify-center">
-             <img src="../assets/images/camioneta-platon.webp" alt="Servicio Empresarial" fetchpriority="high" class="w-full h-full object-cover" />
+             <img src="/img/camioneta-platon.webp" alt="Servicio Empresarial" fetchpriority="high" class="w-full h-full object-cover" />
           </div>
         </div>
 
