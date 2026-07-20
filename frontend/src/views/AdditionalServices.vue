@@ -22,7 +22,7 @@ useHead({
     
     <!-- ==================== HERO SECTION ==================== -->
     <section class="relative bg-ges-black text-white py-20 md:py-32 flex items-center min-h-[400px]">
-      <img src="../assets/images/aditional-services-banner.webp" alt="Servicios Adicionales Gestrasing" fetchpriority="high" class="absolute inset-0 w-full h-full object-cover" />
+      <img src="/img/aditional-services-banner.webp" alt="Servicios Adicionales Gestrasing" fetchpriority="high" class="absolute inset-0 w-full h-full object-cover" />
       <div class="absolute inset-0 bg-ges-black/75"></div>
       
       <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center w-full">
@@ -43,7 +43,7 @@ useHead({
         <div class="flex flex-col lg:flex-row gap-12 items-center">
           
           <div class="w-full lg:w-1/2 h-80 md:h-[450px] rounded-2xl overflow-hidden shadow-lg border border-gray-100"  id="adicional-mascotas">
-             <img src="../assets/images/mascota-transporte.jpg" alt="Transporte de Mascotas" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
+             <img src="/img/mascota-transporte.jpg" alt="Transporte de Mascotas" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
           </div>
 
           <div class="w-full lg:w-1/2">
@@ -105,7 +105,7 @@ useHead({
           </div>
 
           <div class="w-full lg:w-1/2 h-80 md:h-[450px] rounded-2xl overflow-hidden shadow-lg" id="adicional-encomiendas">
-             <img src="../assets/images/servicio-encomiendas.webp" alt="Envíos y Encomiendas" class="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
+             <img src="/img/servicio-encomiendas.webp" alt="Envíos y Encomiendas" class="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
           </div>
 
         </div>
@@ -119,7 +119,7 @@ useHead({
         <div class="flex flex-col lg:flex-row gap-12 items-center">
           
           <div class="relative w-full lg:w-1/2 h-80 md:h-[450px] rounded-2xl overflow-hidden shadow-lg border border-gray-100 group cursor-not-allowed">
-             <img src="../assets/images/duster.webp" alt="Tours por el Llano" class="w-full h-full object-cover blur-[3px] opacity-80" />
+             <img src="/img/duster.webp" alt="Tours por el Llano" class="w-full h-full object-cover blur-[3px] opacity-80" />
              
              <div class="absolute inset-0 bg-ges-black/40 flex items-center justify-center">
                 <span class="bg-amber-500 text-white font-extrabold text-2xl px-8 py-3 rounded-xl shadow-2xl transform -rotate-12 border-4 border-white tracking-widest uppercase">

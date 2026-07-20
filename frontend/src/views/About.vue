@@ -61,7 +61,7 @@ const clients = [
     
     <!-- ================= HERO INSTITUCIONAL ================= -->
     <section class="relative bg-ges-black text-white py-20 md:py-32 flex items-center min-h-[400px]">
-      <img src="../assets/images/nosotros-hero.webp" alt="Equipo Gestrasing" fetchpriority="high" class="absolute inset-0 w-full h-full object-cover" />
+      <img src="/img/nosotros-hero.webp" alt="Equipo Gestrasing" fetchpriority="high" class="absolute inset-0 w-full h-full object-cover" />
       <div class="absolute inset-0 bg-ges-black/75"></div>
       
       <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center w-full">
