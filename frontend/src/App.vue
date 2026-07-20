@@ -28,7 +28,7 @@ const toggleLanguage = () => {
           <!-- Logo de la Empresa -->
           <div class="flex-shrink-0 flex items-center">
             <router-link to="/" class="flex items-center transition-transform transform hover:scale-105 duration-300">
-              <img src="./assets/images/logo.png" alt="Logo Gestrasing S.A.S."  width="69" height="60" />
+              <img src="/img/logo.png" alt="Logo Gestrasing S.A.S."  width="69" height="60" />
               <span class="text-ges-green">GES</span>TRASING <span class="text-ges-blue">S.A.S.</span>
 
             </router-link>
